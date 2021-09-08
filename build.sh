@@ -5,10 +5,10 @@
 ##
 
 # The path to your bob.jar for building
-bob_path="/home/baymax/Documents/engines/Defold/bob.jar"
+bob_path=""
 
 # The path to your dmengine for running without NE
-dummy_engine_path="/home/baymax/Documents/engines/Defold/dmengine"
+dummy_engine_path=""
 
 # (Windows) the path to OpenAL32.dll from defoldsdk/ext/lib/x86_64-win32/OpenAL32.dll
 windows_openal32_path=""
